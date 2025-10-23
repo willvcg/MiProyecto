@@ -1,0 +1,31 @@
+¡Hola! Este es un archivo de prueba creado con MCP Filesystem.
+
+Contenido de ejemplo:
+- Línea 1
+- Línea 2
+- Línea 3
+
+Fecha de creación: 23 de octubre de 2025
+
+--- Contenido adicional ---
+
+Lista de tareas pendientes:
+✓ Crear archivo de prueba
+✓ Agregar contenido inicial
+✓ Modificar el archivo
+□ Revisar cambios
+□ Compartir resultados
+
+Notas importantes:
+* Este es un ejemplo de texto formateado
+* Podemos agregar diferentes tipos de contenido
+* El archivo puede ser modificado según necesidades
+
+Ejemplo de código:
+```
+function saludar() {
+    console.log("¡Hola mundo!");
+}
+```
+
+¡Gracias por usar MCP Filesystem!
