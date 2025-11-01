@@ -8,6 +8,10 @@
         "@modelcontextprotocol/server-filesystem",
         "/Users/williamcumbicus/Desktop/Dev/MiProyecto"
       ]
-    }
+    },
+    "github": {
+			"type": "http",
+			"url": "https://api.githubcopilot.com/mcp/"
+		}
   }
 }
